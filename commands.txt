@@ -1,0 +1,4 @@
+INQUIRE (FILE = 'TEMP_OPS.dat', EXIST = FileExist)
+IF(FileExist) THEN
+    CALL SYSTEM('DEL TEMP_OPS.dat >nul')
+ENDIF
