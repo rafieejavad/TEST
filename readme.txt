@@ -1,7 +1,7 @@
 This directory contains map, well trajectory and well log template files for use with Builder, as well as some RESCUE sample files.
 
 Javad modification
-now I can sleep
+the cake is a lie
 A break down of these folders is as follows:
 
 
